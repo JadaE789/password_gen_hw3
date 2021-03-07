@@ -6,4 +6,4 @@ The most important part of this assigment was the Javscript. The starter code ju
 
 ["Screenshot of webpage with password generated"](./Assets/GenPass.png)
 
-Link to deployed Application: 
+Link to deployed Application: https://jadae789.github.io/password_gen_hw3/
